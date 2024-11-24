@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment and dependency files
+.env
+venv/
+*.egg-info/
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+
+# ignore the large data folder
+data/

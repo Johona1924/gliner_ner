@@ -1,0 +1,3 @@
+Spacy sentence splitter : very poor performance. Keeps splitting on citation mentions.
+
+multilegalSBD: seems to be a token limit in place (~1800 characters work), the rest is truncated. 
